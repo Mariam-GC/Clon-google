@@ -3,30 +3,30 @@
 
 ## ÍNDICE
 * [Intro](https://github.com/Mariam-GC/Clon-google/edit/main/README.md#-intro)
-* [¿En qué consiste?]()
-* [Objetivo del Proyecto]()
-* [¡Link al Demo!])
+* [¿En qué consiste?](https://github.com/Mariam-GC/Clon-google/edit/main/README.md#-en-qu%C3%A9-consiste)
+* [Objetivo del Proyecto](https://github.com/Mariam-GC/Clon-google/edit/main/README.md#-objetivo-del-proyecto)
+* [¡Link al Demo!](https://github.com/Mariam-GC/Clon-google/edit/main/README.md#-link-al-demo)
 
 ***
 
 ## 📚 Intro
-HTML5 o HyperText Markup Language, es uno de los lenguajes básicos para la elaboración de páginas web y de la mano de CSS3, que brinda estructura y diseño a la página, se crean páginas web que usamos todos los días en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologías. 
+HTML5 o HyperText Markup Language, es uno de los lenguajes básicos para la elaboración de páginas web, así mismo CSS3 o Hojas de Estilo en Cascada (del inglés Cascading Style Sheets)es el encargado de brindarle presentación, estructura y estilo a nuestros documentos, gracias a ellos y de la mano con JavaScript se crean plas áginas web que utilizamos día con día en el navegador. Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologías. 
 En este proyecto, se utilizó HTML y CSS para construir una clonación de la interfaz de Google.
 
 ## 👩🏽‍💻 ¿En qué consiste?
-El proyecto está enfocado en la elaboración de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones: 
+El proyecto está enfocado en la elaboración de la interfaz de Google, tomando como referencia su experiencia e interfaz de usuario, para así poder replicar su comportamiento y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones: 
 
-* Header: Sección donde se encuentra la navegación principal de Google, como la foto de perfil del usuarix, íconos y menú. 
+* Header: Esta sección es en donde se encuentra la navegación principal de Google, como la foto de perfil del usuario, los íconos y menú. 
 
-* Main: Sección del contenedor para los elementos centrales y más importantes de la interfaz: logo, barra de búsqueda, íconos y botones. 
+* Main: Se le conoce como sección del contenedor, es para los elementos centrales y más importantes de la interfaz: logo, barra de búsqueda, íconos y botones. 
 
-* Footer: Sección que contiene información extra para el usuarix, así como hipervínculos al final de la página. 
+* Footer: En esta sección se contiene información extra para el usuario, presenta hipervínculos al pie de la página. 
 
 ## 🚀 Objetivo del Proyecto
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas. 
 
 ## 🔗 ¡Link al Demo!
-Visualiza mi proyecto terminado aquí 👉🏾 [Clonación de Google](http://mirandajaramillo.github.io/Google-Clone/)
+Visualiza mi proyecto terminado aquí 👉🏾 [Clonación de Google](https://github.com/Mariam-GC/Clon-google)
 
 
-![clone-google](https://user-images.githubusercontent.com/96328329/234746858-b0f34e1f-43d2-4311-a75b-70418614212a.png)
+![clone-google]()
