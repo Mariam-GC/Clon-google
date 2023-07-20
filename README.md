@@ -26,7 +26,7 @@ El proyecto está enfocado en la elaboración de la interfaz de Google, tomando 
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web, para analizarlas y replicarlas. 
 
 ## 🔗 ¡Link al Demo!
-Visualiza mi proyecto terminado aquí 👉🏾 [Clonación de Google](https://github.com/Mariam-GC/Clon-google)
+Visualiza mi proyecto terminado aquí 👉🏾 [Clonación de Google](https://clongoogletcp.netlify.app/)
 
 
 ![clone-google](file:///C:/Users/maria/OneDrive/Desktop/PROGRAMACION/Tecnolochicas/Clon%20Google/images/Captura%20de%20pantalla%202023-07-16%20235051.png)
