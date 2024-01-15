@@ -1,5 +1,6 @@
 # Clonación de la interfaz de Google
 ###### ✨ Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro ✨
+<img width="959" alt="paginaGoogle" src="https://github.com/Mariam-GC/Clon-google/assets/121530920/68b2feb6-b9e2-4836-9772-b0bdda2a8de5">
 
 ## ÍNDICE
 * [Intro](https://github.com/Mariam-GC/Clon-google/edit/main/README.md#-intro)
